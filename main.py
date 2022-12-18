@@ -6,7 +6,7 @@ import psycopg2.extras
 hostname = 'localhost'
 database = 'cs623_pythonproject'
 username = 'postgres'
-password = 'Priya@5284'
+password = 'postgres'
 port_id = 5432
 
 # database connection object
